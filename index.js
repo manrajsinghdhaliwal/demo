@@ -19,6 +19,3 @@ navLinks.forEach(link => {
         link.style.backgroundColor = '#F9B4AB';
     });
 });
-
-// Set initial active link style
-document.querySelector('.nav-bar[href="#home"]').style.backgroundColor = '#F9B4AB';
